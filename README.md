@@ -1,4 +1,4 @@
-# erd-lesson
+# pu-playground
 
 ## How to check
 - `docker-compose up`
